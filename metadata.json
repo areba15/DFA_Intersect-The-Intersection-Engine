@@ -1,0 +1,5 @@
+{
+  "name": "DFA INTERSECT",
+  "description": "Construct, visualize, and test the intersection of two regular languages using DFA cross-product construction.",
+  "requestFramePermissions": []
+}
